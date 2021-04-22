@@ -1,6 +1,6 @@
 # c2-js-intro-debrief
 
-. GenBuzz 
+1. GenBuzz 
    * Create variable `myNumber`
         * Check that the value of the `myNumber` is of type `number`
    * If `myNumber` is not a number, print 'This is not a number' to the console.
