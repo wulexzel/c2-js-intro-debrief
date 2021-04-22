@@ -36,8 +36,8 @@
         - Select `https` and then COPY that url
         - Open Git Bash on your computer, `cd` to a directory where you wish to save this assignment to work on
         - Type `git clone ` followed by the URL you copied from Github
-        - `cd` into the repository for this assignment you have just cloned, `BootstrapPractice`
-* Open the newly cloned project in a code editor (ex. Visual Studio Code). _If you do not yet has VSCode, it's okay, you can also edit the files in Notepad or a similar text editor._
+        - `cd` into the repository for this assignment that you have just cloned.
+* Open the newly cloned project in a code editor (ex. Visual Studio Code). 
 
 ### Part 2 - Edit the _cloned_ project
 
