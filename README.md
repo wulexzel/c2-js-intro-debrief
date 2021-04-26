@@ -44,7 +44,7 @@
 * from a text editor (i.e. - Visual Studio Code, Notepad ++, etc...), select:
   * `File` > `Add Folder to WorkSpace`
     * Select the directory you use to store your projects (ex. `dev` directory) 
-    * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project `BootstrapPractice`
+    * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project folder.
     * Expand the project from the _project explorer (may just be called `explorer`)_
     * Modify the `index.html` and `style.css` (if needed) to complete the assignment.
     
